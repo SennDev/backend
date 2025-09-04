@@ -1,0 +1,101 @@
+id,name,age,income,signup_date,country,product_category,score,is_active,notes
+1,User 1,21,112788,2016-03-17,Mexico,Sports,98,False,missing income
+2,User 2,72,29702,2018-09-29,Peru,Home,30,False,
+3,User 3,74,,2023-03-18,USA,Electronics,35,True,
+4,User 4,26,14783,2019-10-30,USA,Beauty,90,True,missing income
+5,User 5,39,75302,2021-10-30,Colombia,Electronics,80,False,vip customer
+6,User 6,58,90185,2020-06-14,Brazil,Beauty,95,True,
+7,User 7,64,75819,2016-11-27,Colombia,Beauty,100,False,
+8,User 8,64,87126,2015-03-08,Peru,Automotive,41,False,
+9,User 9,75,42032,2020-08-14,Mexico,Health,66,False,
+10,User 10,52,35277,2021-01-06,USA,Sports,89,True,
+11,User 11,26,14753,2018-12-12,Argentina,Sports,83,True,
+12,User 12,57,58538,2015-12-06,Brazil,Electronics,98,False,
+13,User 13,52,,2018-08-13,Argentina,Sports,34,False,duplicate row
+14,User 14,,95372,2024-11-29,Brazil,Electronics,48,False,
+15,User 15,65,,2020-10-25,Brazil,Automotive,69,True,missing income
+16,User 16,67,60298,2018-10-15,Spain,Health,51,False,duplicate row
+17,User 17,21,71603,2018-12-02,USA,Grocery,87,False,duplicate row
+18,User 18,68,32785,2024-10-09,Chile,Beauty,94,True,vip customer
+19,User 19,64,86735,2018-01-18,Peru,Home,71,False,duplicate row
+20,User 20,20,22533,2020-08-31,Peru,Grocery,32,True,missing income
+21,User 21,54,90656,2018-10-29,Chile,Grocery,98,True,duplicate row
+22,User 22,49,,2023-01-02,USA,Beauty,80,True,vip customer
+23,User 23,26,12781,2023-11-12,USA,Beauty,45,True,missing income
+24,User 24,73,99680,2018-07-16,Colombia,Home,87,False,
+25,User 25,70,62118,2015-09-13,Brazil,Sports,94,False,
+26,User 26,72,,2018-04-27,Spain,Beauty,94,False,
+27,User 27,42,62910,2020-03-21,Colombia,Home,87,False,duplicate row
+28,User 28,54,44560,2020-02-09,Argentina,Beauty,36,True,
+29,User 29,19,77071,2020-05-09,Mexico,Sports,99,True,missing income
+30,User 30,73,40948,2015-05-12,USA,Automotive,66,True,missing income
+31,User 31,64,102176,2024-10-10,Argentina,Beauty,51,False,missing income
+32,User 32,,13700,2016-11-05,Peru,Electronics,64,True,vip customer
+33,User 33,71,77514,2020-03-29,Peru,Beauty,97,True,
+34,User 34,46,85059,2017-03-10,Spain,Health,80,False,duplicate row
+35,User 35,25,68709,2019-11-21,Colombia,Home,93,True,
+36,User 36,31,16922,2017-05-02,Spain,Sports,33,True,duplicate row
+37,User 37,59,,2017-10-06,Brazil,Health,67,True,missing income
+38,User 38,25,96283,2017-05-18,Mexico,Health,76,True,duplicate row
+39,User 39,32,78919,2019-11-16,Brazil,Automotive,54,False,
+40,User 40,75,17582,2020-05-02,Spain,Home,45,False,missing income
+41,User 41,53,70331,2018-03-28,Colombia,Home,79,True,
+42,User 42,50,110698,2022-06-14,Colombia,Health,40,True,duplicate row
+43,User 43,29,74280,2024-09-03,Mexico,Home,41,False,
+44,User 44,24,71979,2017-04-02,Brazil,Electronics,37,True,
+45,User 45,47,29606,2019-01-10,USA,Grocery,56,True,
+46,User 46,68,100026,2022-07-28,Mexico,Beauty,71,False,missing income
+47,User 47,68,,2015-09-22,Spain,Home,66,True,
+48,User 48,53,114889,2023-08-10,Argentina,Sports,77,False,
+49,User 49,72,16354,2018-12-04,Colombia,Health,30,False,vip customer
+50,User 50,,,2023-01-26,Chile,Automotive,71,False,
+51,User 51,64,109724,2019-06-23,Spain,Home,56,False,duplicate row
+52,User 52,67,97653,2021-02-08,Chile,Sports,33,False,
+53,User 53,66,93970,2023-10-01,Peru,Beauty,53,True,
+54,User 54,63,47448,2015-10-29,Colombia,Electronics,62,False,
+55,User 55,34,93405,2023-11-20,Spain,Health,98,True,missing income
+56,User 56,36,95622,2022-05-18,Argentina,Sports,60,True,
+57,User 57,71,25228,2019-12-12,Brazil,Grocery,75,True,
+58,User 58,,39480,2015-01-18,Brazil,Home,40,True,vip customer
+59,User 59,35,113894,2024-04-14,Argentina,Electronics,33,True,vip customer
+60,User 60,43,19020,2021-02-04,Peru,Beauty,69,False,
+61,User 61,60,49340,2017-03-30,Brazil,Home,93,True,duplicate row
+62,User 62,22,116940,2016-11-27,Mexico,Automotive,58,True,duplicate row
+63,User 63,55,64523,2024-03-01,Brazil,Health,98,False,
+64,User 64,71,23755,2020-12-31,Argentina,Health,33,True,
+65,User 65,27,80855,2023-01-03,Mexico,Grocery,82,False,vip customer
+66,User 66,42,35912,2019-07-16,Brazil,Health,43,True,
+67,User 67,31,117236,2023-10-09,Argentina,Beauty,95,False,missing income
+68,User 68,36,36120,2024-06-23,Spain,Grocery,30,True,vip customer
+69,User 69,66,99013,2020-02-03,Peru,Health,100,False,
+70,User 70,41,110685,2022-04-07,Argentina,Grocery,98,False,
+71,User 71,,18866,2020-07-03,Colombia,Grocery,83,True,
+72,User 72,60,42346,2016-07-10,Spain,Grocery,92,True,vip customer
+73,User 73,49,91262,2019-09-01,Argentina,Beauty,91,True,
+74,User 74,24,18912,2022-12-22,Chile,Beauty,35,True,
+75,User 75,69,101844,2023-05-07,Chile,Grocery,61,True,duplicate row
+76,User 76,50,73682,2018-12-05,USA,Home,38,False,duplicate row
+77,User 77,43,95606,2019-09-02,Spain,Beauty,86,False,
+78,User 78,,58226,2023-09-23,Peru,Health,100,False,vip customer
+79,User 79,62,,2016-06-02,USA,Home,90,False,
+80,User 80,40,28388,2018-12-31,Argentina,Health,39,False,
+81,User 81,,85191,2020-10-19,Mexico,Automotive,92,False,duplicate row
+82,User 82,63,116670,2018-11-30,Peru,Beauty,83,False,
+83,User 83,43,78803,2016-02-24,Peru,Beauty,41,True,missing income
+84,User 84,29,20571,2022-03-28,USA,Health,85,False,
+85,User 85,44,51206,2019-05-28,Brazil,Grocery,72,False,missing income
+86,User 86,22,36304,2019-12-26,Brazil,Automotive,71,True,
+87,User 87,69,104134,2018-08-02,USA,Beauty,58,True,vip customer
+88,User 88,48,39261,2022-11-08,USA,Automotive,58,False,
+89,User 89,30,115402,2022-01-09,USA,Sports,64,False,missing income
+90,User 90,23,73077,2024-10-09,Colombia,Sports,97,True,
+91,User 91,67,103247,2020-09-16,USA,Health,64,True,missing income
+92,User 92,29,43122,2019-09-06,Spain,Automotive,79,True,missing income
+93,User 93,47,29677,2018-11-11,Chile,Home,68,False,
+94,User 94,28,92851,2024-02-27,Peru,Beauty,54,True,missing income
+95,User 95,67,,2016-10-11,Colombia,Automotive,50,False,
+96,User 96,24,57538,2016-12-16,USA,Sports,52,True,vip customer
+97,User 97,51,98123,2016-02-22,Brazil,Home,60,False,
+98,User 98,46,88270,2019-06-26,Mexico,Automotive,92,False,duplicate row
+99,User 99,45,32935,2016-08-11,Peru,Home,68,False,vip customer
+100,User 100,27,89010,2023-11-17,Peru,Home,97,True,
